@@ -1,160 +1,160 @@
 [[lazygit]]
 arch = "aarch64"
-git-tree-sha1 = "c51e993e13c54399f15224cfe51a14e76258e920"
+git-tree-sha1 = "c3f4ae0d0a9ff7529a47a7c7decd7c98e51fb444"
 os = "macos"
 
     [[lazygit.download]]
-    sha256 = "be6c6a88f3214aed6f09354dc279ddd4f7560ab788c484ca888876f24f279564"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "80ceadebe2900622b21206293c966af9ee3b78f2ecb099df0c07e85d70514f67"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.aarch64-apple-darwin.tar.gz"
 [[lazygit]]
 arch = "aarch64"
-git-tree-sha1 = "a9330e20600adab2ec316acfec7fa80af2642275"
+git-tree-sha1 = "9f241bef34a67c38add7c28b15fbb3c40db9f937"
 libc = "glibc"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "379fdd2580b9ff84ed9a9a4eb0fb3d41f0044b221080e5bcde2b2a8570828ba8"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "f2fbe5d1ac8e9b4508e7407d9fc912574e97a51ed008180dcb816e515bae2ce8"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.aarch64-linux-gnu.tar.gz"
 [[lazygit]]
 arch = "aarch64"
-git-tree-sha1 = "a9330e20600adab2ec316acfec7fa80af2642275"
+git-tree-sha1 = "9f241bef34a67c38add7c28b15fbb3c40db9f937"
 libc = "musl"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "379fdd2580b9ff84ed9a9a4eb0fb3d41f0044b221080e5bcde2b2a8570828ba8"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.aarch64-linux-musl.tar.gz"
+    sha256 = "f2fbe5d1ac8e9b4508e7407d9fc912574e97a51ed008180dcb816e515bae2ce8"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.aarch64-linux-musl.tar.gz"
 [[lazygit]]
 arch = "aarch64"
-git-tree-sha1 = "f7aa680e2a00d2aaf41cfb83b3536dab8b46fb6a"
+git-tree-sha1 = "67802254aa7517bedb3dcd1480dba99eeba51f0a"
 os = "freebsd"
 
     [[lazygit.download]]
-    sha256 = "7713fe605bcdb1b33d4c2a6e83d5a84556712444ace6bdec8c253ed231e81b1c"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "3aa6b9a111bb4fa144bba389f8a20ddbf78d08da448c3d96a074f0b13f04bc9d"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.aarch64-unknown-freebsd.tar.gz"
 [[lazygit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3e8a6e7a7cde8022a0e70266d73babf511db97f2"
+git-tree-sha1 = "60ce1f5967980542723b9f940d7a278e1d111104"
 libc = "glibc"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "02b6df7d4e3e165b4f061f2f5a8ab6535aff70bf4c2ef9f2e7e7eb2804eae259"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ddba9954475383b362cd7fa9710be506d1a0a1c1442e8a6f5129986ea2cf0c71"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.armv6l-linux-gnueabihf.tar.gz"
 [[lazygit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3e8a6e7a7cde8022a0e70266d73babf511db97f2"
+git-tree-sha1 = "60ce1f5967980542723b9f940d7a278e1d111104"
 libc = "musl"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "02b6df7d4e3e165b4f061f2f5a8ab6535aff70bf4c2ef9f2e7e7eb2804eae259"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "ddba9954475383b362cd7fa9710be506d1a0a1c1442e8a6f5129986ea2cf0c71"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.armv6l-linux-musleabihf.tar.gz"
 [[lazygit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "664328bda1ed1e8684599f36e6d902361ec696bd"
+git-tree-sha1 = "0273e9a6b47ce232acb8b8d3613c89062443c1fe"
 libc = "glibc"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "6597f8646dcd3f7b45c0a9eca2d09cc41d23eb95f8ae9d1abafe74aa93b72dfc"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ad0bbf2b20c5df108e6e072d32273988d6edc8c7fbefe421a1f0277c15842d11"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.armv7l-linux-gnueabihf.tar.gz"
 [[lazygit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "664328bda1ed1e8684599f36e6d902361ec696bd"
+git-tree-sha1 = "0273e9a6b47ce232acb8b8d3613c89062443c1fe"
 libc = "musl"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "6597f8646dcd3f7b45c0a9eca2d09cc41d23eb95f8ae9d1abafe74aa93b72dfc"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "ad0bbf2b20c5df108e6e072d32273988d6edc8c7fbefe421a1f0277c15842d11"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.armv7l-linux-musleabihf.tar.gz"
 [[lazygit]]
 arch = "i686"
-git-tree-sha1 = "d4b8a49c427f1f64ea4e20039db417a073bc57d5"
+git-tree-sha1 = "98c8e6ca8aef1c67390793338b2999dbfd953029"
 libc = "glibc"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "1148f6e032e9ace04ef0e4a7e3c0c2a7108ae4147fb369e621506135693717eb"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.i686-linux-gnu.tar.gz"
+    sha256 = "756e0a1bea7b1e0a0a53dcc3bbb45758120ff9521ea6a40e62880aa1f6a06853"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.i686-linux-gnu.tar.gz"
 [[lazygit]]
 arch = "i686"
-git-tree-sha1 = "d4b8a49c427f1f64ea4e20039db417a073bc57d5"
+git-tree-sha1 = "98c8e6ca8aef1c67390793338b2999dbfd953029"
 libc = "musl"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "1148f6e032e9ace04ef0e4a7e3c0c2a7108ae4147fb369e621506135693717eb"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.i686-linux-musl.tar.gz"
+    sha256 = "756e0a1bea7b1e0a0a53dcc3bbb45758120ff9521ea6a40e62880aa1f6a06853"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.i686-linux-musl.tar.gz"
 [[lazygit]]
 arch = "i686"
-git-tree-sha1 = "f02d97b2d00c5de4ef18694aea52495249186060"
+git-tree-sha1 = "0cfa120e7da85f4e1d2e36c35dd0f556eeba2f04"
 os = "windows"
 
     [[lazygit.download]]
-    sha256 = "0133667cde21e3a9baaa0c58a97bf708783c574fbd35521153a3525ec0724f93"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.i686-w64-mingw32.tar.gz"
+    sha256 = "6e5ccdaa09403c73d00e144f78ec3f0d2ce1cd233fd617fca83e11f9f1eae2b4"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.i686-w64-mingw32.tar.gz"
 [[lazygit]]
 arch = "powerpc64le"
-git-tree-sha1 = "015b5fb34d5609e896d08a8cbaad66764829b89d"
+git-tree-sha1 = "34e033e878a4cee89a2cfbf5b227a63d739d4712"
 libc = "glibc"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "d08f08c4baf87e3d5c78784bf242eafe647310701e1c61b327ce0047bc2b111e"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "77c312438ea28bad4710805120eaa8e654a40ea8973fff3eda2089e68e60a97e"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.powerpc64le-linux-gnu.tar.gz"
 [[lazygit]]
 arch = "riscv64"
-git-tree-sha1 = "2d60ab2d75d6cdbbc60c191d12695e9138edb250"
+git-tree-sha1 = "ac817de72baaf2378c45a57c6b78981330aa366d"
 libc = "glibc"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "bab286d922d4e583c9922e624ff6803386ae7268742e34b9411c860a4130f7ce"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "47b40cf77fae890325018db430e5991c074892fabb7fcc34fb806f21ec9f5c07"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.riscv64-linux-gnu.tar.gz"
 [[lazygit]]
 arch = "x86_64"
-git-tree-sha1 = "d30985168ef85afbe5b57b743b4ef113c65b4253"
+git-tree-sha1 = "3ddf4870f46b42f48563a73057f3f5262361bf86"
 os = "macos"
 
     [[lazygit.download]]
-    sha256 = "a6ed0670fb04f9bde6abd380316ac1b988c4c312d368fa488759146b1d87dea1"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "7173514c8c2983755001e9207578d8c23ad04e94b805425323f8bfc78e42bce2"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.x86_64-apple-darwin.tar.gz"
 [[lazygit]]
 arch = "x86_64"
-git-tree-sha1 = "18270273c59eb583b4af7515d1e78b70a4de7c5a"
+git-tree-sha1 = "c2ffc132aed3351f3fadbb7c23a23f76edece309"
 libc = "glibc"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "ea59843fd37a761f48fbab0a080d894d40462bc8ceabca9272b9a681303ff093"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "b65c9fe735d99bb1bfb628cd7234a50c78bccd2cdc432336fdcc6f4f6c2e62a6"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.x86_64-linux-gnu.tar.gz"
 [[lazygit]]
 arch = "x86_64"
-git-tree-sha1 = "4c6ed4ec9653a3f894ac283e9d1a40f85882e55d"
+git-tree-sha1 = "4f768752c99418f89816b77635bbf66d4b336c13"
 libc = "musl"
 os = "linux"
 
     [[lazygit.download]]
-    sha256 = "5d4224a3ebad0b50fedf6c712e13f4934932c192b0dde9d9a86be1830daddf8e"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.x86_64-linux-musl.tar.gz"
+    sha256 = "670aea6266d9c5a8c38763f11d13a96985c59d160d47c33cc61d457da4ebc334"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.x86_64-linux-musl.tar.gz"
 [[lazygit]]
 arch = "x86_64"
-git-tree-sha1 = "fa05659b42540964aae52a047781463b0c1a0bf2"
+git-tree-sha1 = "77dfb36feb16bee14a5351c9f67a533a8aef20d2"
 os = "freebsd"
 
     [[lazygit.download]]
-    sha256 = "18316e9b2836a53617fd67f3f5a47341bde87d3fbbba5fffb6e912200eef4d68"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "50ce9a6904e4a5f131d883df8c1cf688840b8d9e7a92a37939b2553db35dd388"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.x86_64-unknown-freebsd.tar.gz"
 [[lazygit]]
 arch = "x86_64"
-git-tree-sha1 = "841f859abccfcd165224cdfb260df7eb7c503e43"
+git-tree-sha1 = "02e2c97feac1f8d44fb124756ad7bbb16bedba01"
 os = "windows"
 
     [[lazygit.download]]
-    sha256 = "c331d224104a265f0275723dfd966fc2e0f7567844fec6c6fd644f687c737cd5"
-    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.61.1+0/lazygit.v0.61.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "1a3c76f080fdeb13548c9328655e87fa039d5188062aa622d9644d8e327c923b"
+    url = "https://github.com/JuliaBinaryWrappers/lazygit_jll.jl/releases/download/lazygit-v0.65.0+0/lazygit.v0.65.0.x86_64-w64-mingw32.tar.gz"
